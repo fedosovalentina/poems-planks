@@ -1,2 +1,11 @@
-# poems-planks
-Planks &amp; Poems App. Hold the plank. Hear the poem. Each set plays out against drifting lines of poetry and cinematic visuals. What used to be thirty seconds of endurance becomes something quieter.
+# Poem & Plank
+
+Flutter-приложение: планка под поэзию (видео + аудио + текст).
+
+```bash
+cd ~/code/poems-planks
+flutter pub get
+flutter run -d chrome
+```
+
+Контекст для разработки — в [AGENTS.md](AGENTS.md).
